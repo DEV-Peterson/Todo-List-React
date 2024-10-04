@@ -6,10 +6,6 @@ Este é um projeto de **Lista de Tarefas** desenvolvido em **React** como parte 
 
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação e Execução](#instalação-e-execução)
-- [Como Usar](#como-usar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Funcionalidades
 
